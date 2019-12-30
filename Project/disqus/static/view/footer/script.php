@@ -1,0 +1,11 @@
+<script type="text/javascript" src="static/js/jquery-3.3.1.slim.min.js"></script>
+<script type="text/javascript" src="static/js/popper.min.js"></script>
+<script type="text/javascript" src="static/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="static/js/compiled.0.min.js"></script>
+<script type="text/javascript" src="static/js/_urls_.js"></script>
+<script type="text/javascript" src="static/js/_request_.js"></script>
+<script type="text/javascript" src="static/js/_utltes_.js"></script>
+<script type="text/javascript" src="static/js/_main_.js"></script>
+<script type="text/javascript" src="static/js/_lgn_reg_.js"></script>
+<script type="text/javascript" src="static/js/_home_.js"></script>
+<script type="text/javascript" src="static/js/_blog_.js"></script>
